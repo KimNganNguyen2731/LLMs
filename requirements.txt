@@ -1,0 +1,5 @@
+torch
+datasets
+diffusers
+transformers
+huggingface_hub
