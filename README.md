@@ -4,7 +4,8 @@ To run this model, run this command:
 ```bash
 python main.py
 ```
-After that, the command terminal will show the state is listening to...
 
-Say the wake word "Marin" to wake up a voice assistant (Wake-up model),
+<div style="text-align: center;">
+  <img src="https://github.com/user-attachments/assets/fecc10a3-0359-403c-b7b5-212288ea5df1" alt="image description" width="400">
+</div>
 
